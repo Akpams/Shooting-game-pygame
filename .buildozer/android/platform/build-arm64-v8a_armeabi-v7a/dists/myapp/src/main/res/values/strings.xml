@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">apk-shoot</string>
+    <string name="private_version">b567fa80dcd376884ce0e41040381e4f0945beb8</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">kivy</string>
+</resources>
